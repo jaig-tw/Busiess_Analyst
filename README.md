@@ -5,6 +5,15 @@ This is a preliminary document for a ditial investment platoform. It includes:
 - User Stories
 - Process Flow Diagram
 
+# Mutual Fund Recommendations Based on User Inputs
+
+A simple mutual fund recommendation tool to rank mutual funds based on user priorities.
+
+# Loan Eligibility and EMI Calculator
+
+A simple loan eligibiity and EMI calculator.
+
+
 
 
 Note: An old publication tho show domain familiarity
