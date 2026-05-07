@@ -19,6 +19,6 @@ A simple loan eligibiity and EMI calculator (Excel based)
 **Note:**
 
 
-An old publication tho show domain familiarity
+An old publication to show domain familiarity
 
 How to Pick the Right Tax Saving Fund for You? (https://technobrackets.blogspot.com/2022/07/v-behaviorurldefaultvmlo.html)
