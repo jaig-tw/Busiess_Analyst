@@ -14,7 +14,19 @@ A simple mutual fund recommendation tool to rank mutual funds based on user prio
 A simple loan eligibiity and EMI calculator (Excel based)
 
 
+# Sample API Documentation
 
+
+This is an API documentation for CurrentWeatherAPI
+# Tools Used
+Following tools have been used for the preparation of the document:
+- Postman
+- Swagger Editor
+- Markdown
+# Files Included
+- Final API Document (PDF and Markdown formats)
+- YAML and JSON Files
+- Miscellaneous working files
 
 **Note:**
 
