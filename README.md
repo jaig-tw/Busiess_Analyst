@@ -18,15 +18,27 @@ A simple loan eligibiity and EMI calculator (Excel based)
 
 
 This is an API documentation for CurrentWeatherAPI
-# Tools Used
+## Tools Used
 Following tools have been used for the preparation of the document:
 - Postman
 - Swagger Editor
 - Markdown
-# Files Included
+## Files Included
 - Final API Document (PDF and Markdown formats)
 - YAML and JSON Files
 - Miscellaneous working files
+
+# SQL Finance Reporting Project
+
+This project demonstrates financial reporting analysis using SQL Server.
+
+## Features:
+- Profit & Loss reporting
+- Financial statement summaries
+
+## Tools Used:
+- SQL Server
+- Financial datasets
 
 **Note:**
 
