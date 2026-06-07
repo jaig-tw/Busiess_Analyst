@@ -40,16 +40,23 @@ This project demonstrates financial reporting analysis using SQL Server.
 - SQL Server
 - Financial datasets
 
-# Excel Models
-## Revenue by Country (Excel)
+# P & L Statements Using Excel/DAX & PowerBI/DAX
+
+## P & L Using Excel and DAX
+### Revenue by Country (Excel)
 A Power Pivot data model demonstrating a Star Schema built across multiple tables. It shows Revenue and Expenses by Country and Year
 
-## P&L Statement (Excel)
-Shows Profit & Loss statements under multiple categories in different years.
-## Skills demonstrated:
--	Star Schema modelling 
+### P&L Statement (Excel)
+Shows Profit & Loss statements under multiple categories for different years.
+### Skills demonstrated:
+-	Star Schema modelling
 -	Power Pivot relationships
 -	P&L structure
+
+## P & L Using PowerBI and DAX
+
+Shows Profit and Loss Statement and calculations for Total Sales, Gross Profit, EBITDA, Operating Profit, PBIT, and Net Profit 
+
 
 
 **Note:**
